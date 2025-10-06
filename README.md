@@ -1,4 +1,4 @@
-# User Profile Card - Vanilla JS Interview Project
+# User Profile Card - Vanilla JS Project
 
 A responsive, interactive user profile card built with vanilla JavaScript, HTML, and CSS. This project demonstrates modern web development practices including API integration, DOM manipulation, error handling, and responsive design.
 
